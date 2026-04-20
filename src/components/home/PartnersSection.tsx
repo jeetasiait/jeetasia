@@ -3,17 +3,17 @@ import React from 'react';
 import { Building2 } from 'lucide-react';
 
 const bankingPartners = [
-  { name: 'HDFC Bank', logo: '/lovable-uploads/hdfc.png' },
-  { name: 'ICICI Bank', logo: '/lovable-uploads/icici.png' },
-  { name: 'IndusInd Bank', logo: '/lovable-uploads/indusind.png' },
-  { name: 'Union Bank', logo: '/lovable-uploads/union.png' },
-  { name: 'PNB', logo: '/lovable-uploads/pnb.png' },
+  { name: 'HDFC Bank', logo: '/jeetasia-uploads/banks/hdfc.png' },
+  { name: 'ICICI Bank', logo: '/jeetasia-uploads/banks/icici.png' },
+  { name: 'IndusInd Bank', logo: '/jeetasia-uploads/banks/indusind.png' },
+  { name: 'Union Bank', logo: '/jeetasia-uploads/banks/union.png' },
+  { name: 'PNB', logo: '/jeetasia-uploads/banks/pnb.png' },
 ];
 
 const clients = [
-  { name: 'NHAI', logo: '/lovable-uploads/nhai.png' },
-  { name: 'MoRTH', logo: '/lovable-uploads/morth.png' },
-  { name: 'HSIIDC', logo: '/lovable-uploads/hsiidc.png' },
+  { name: 'NHAI', logo: '/jeetasia-uploads/clients/nhai.png' },
+  { name: 'MoRTH', logo: '/jeetasia-uploads/clients/morth.png' },
+  { name: 'HSIIDC', logo: '/jeetasia-uploads/clients/hsiidc.png' },
 ];
 
 const PartnersSection = () => {
